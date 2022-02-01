@@ -1,4 +1,5 @@
-# Senior Flutter Developer | CEO at Fluttydev
+# Umer Waqas
+## Senior Flutter Developer | CEO at Fluttydev
 <img src="https://media-exp1.licdn.com/dms/image/C4D1BAQGTf3AWSm9GEQ/company-background_10000/0/1643698747363?e=1643788800&v=beta&t=hRsBu8DdT_Z2yeogwV_nZnDtwJCN5yytXyXn07qk57A"></img>
 
 🔥 Experience of Flutter for Android, iPhone, Web along with 🟢 Flutter Ui ( Front-end) Animations, Optimised, Light theme and dark theme, Pixel perfect UI and responsive for any small and large devices with 🟢 Backend connectivity with Firebase database or custom API
