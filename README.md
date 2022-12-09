@@ -1,16 +1,29 @@
-# 💫Umer Waqas:
-🚀 Full Stack Flutter Developer 
-🚀 I Love Firebase 
-🚀 Worked on Location based apps
-🚀 NFT Website & Mobile app developer 
-🚀 CEO at Fluttydev 
+🚀 200+ ( android & phone) apps in flutter | 5+ years experience in native apps | $62k+ earned freelance | 2k+ repo | 50+ answers at stackoverflow | crypto app | blockchain App | ai apps | web3.0 Apps | 70+ apps modified from codecanyon | delivery Apps
 
-🎉 Do you want to make any app for your business ? 
-Let’s schedule your 60 mins meeting with Umer for free 
+What you will get :
+- quickly work done & progress update
+- responsive app & clean code
+- app submission to stores( Android & iPhone )
 
-http://fluttydev.com/
-https://api.whatsapp.com/send/?phone=923459347900
-https://www.linkedin.com/in/umer-waqas-%F0%9F%94%A5-full-stack-mobile-app-developer-65b18b108/https://www.linkedin.com/in/umer-waqas-%F0%9F%94%A5-full-stack-mobile-app-developer-65b18b108/
+I have worked on:
+- Food delivery app
+- Grocery delivery app in Flutter
+- Healthcare App
+- AI based apps
+- Adan & Prayer time app
+- Internet speed test app
+
+Technology I do use:
+- Flutter for Android , iPhone & Web
+- Python for Backend
+
+Services which I have worked on :
+- Firebase, Amazon web service , Google Map
+
+Platforms:
+- Android , IOS, Web
+
+Do you want to make high quality bushiness mobile app in Flutter? Let’s connect me
 
 
 ## 🌐Socials
