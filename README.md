@@ -1,29 +1,6 @@
 🚀 200+ ( android & phone) apps in flutter | 5+ years experience in native apps | $62k+ earned freelance | 2k+ repo | 50+ answers at stackoverflow | crypto app | blockchain App | ai apps | web3.0 Apps | 70+ apps modified from codecanyon | delivery Apps
 
-What you will get :
-- quickly work done & progress update
-- responsive app & clean code
-- app submission to stores( Android & iPhone )
-
-I have worked on:
-- Food delivery app
-- Grocery delivery app in Flutter
-- Healthcare App
-- AI based apps
-- Adan & Prayer time app
-- Internet speed test app
-
-Technology I do use:
-- Flutter for Android , iPhone & Web
-- Python for Backend
-
-Services which I have worked on :
-- Firebase, Amazon web service , Google Map
-
-Platforms:
-- Android , IOS, Web
-
-Do you want to make high quality bushiness mobile app in Flutter? Let’s connect me
+As a Flutter developer with 2 years of experience in the framework and 4 years of experience in native app development, I am skilled in using Flutter to create cross-platform mobile applications that perform seamlessly on iOS and Android. I have expertise in modifying existing code from Codecanyon and integrating it into new Flutter projects. I am also experienced in developing mobile applications using Flutter, even if the API is not yet ready. I have a strong background in mobile development and a passion for creating beautiful, user-friendly mobile apps. I am always looking for new products and tools to improve my development speed and efficiency. I am also familiar with Firebase, Amazon Web Services, Google Maps, payment gateways, and OpenAI. If you're looking for a skilled and experienced Flutter developer to help bring your mobile app ideas to life, please don't hesitate to contact me. I am eager to take on new challenges and help clients
 
 
 ## 🌐Socials
